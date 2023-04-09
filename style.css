@@ -1,0 +1,23 @@
+html { 
+    background: url(bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .maskot{
+    width:200px;
+    height:200px;
+  }
+
+
+  .bungkus{
+    width: 65%;
+    height:55%;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
